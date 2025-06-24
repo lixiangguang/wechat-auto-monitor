@@ -1,0 +1,26 @@
+# 微信自动登录监控程序依赖包
+# 安装命令: pip install -r requirements.txt
+
+# 微信自动化操作库
+wxautox>=3.0.0
+
+# 系统进程管理库
+psutil>=5.9.0
+
+# 桌面通知库
+plyer>=2.1.0
+
+# 日志处理库（Python内置，无需安装）
+# logging
+
+# 时间处理库（Python内置，无需安装）
+# datetime
+
+# 操作系统接口库（Python内置，无需安装）
+# os
+
+# 子进程管理库（Python内置，无需安装）
+# subprocess
+
+# 时间控制库（Python内置，无需安装）
+# time
